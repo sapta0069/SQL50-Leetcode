@@ -28,4 +28,20 @@ This repository contains the solutions for the SQL questions as organised in the
 | [1827-invalid-tweets](https://github.com/sapta0069/SQL50-Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sapta0069/SQL50-Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/sapta0069/SQL50-Leetcode/tree/master/2087-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
+## Math
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
+## Matrix
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
