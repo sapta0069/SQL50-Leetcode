@@ -32,10 +32,12 @@ This repository contains the solutions for the SQL questions as organised in the
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Hash Table
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,17 @@ This repository contains the solutions for the SQL questions as organised in the
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
