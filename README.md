@@ -35,6 +35,7 @@ This repository contains the solutions for the SQL questions as organised in the
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sapta0069/SQL50-Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,24 @@ This repository contains the solutions for the SQL questions as organised in the
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Binary Search
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sapta0069/SQL50-Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sapta0069/SQL50-Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sapta0069/SQL50-Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Sorting
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sapta0069/SQL50-Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sapta0069/SQL50-Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
