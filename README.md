@@ -54,6 +54,7 @@ This repository contains the solutions for the SQL questions as organised in the
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1382-balance-a-binary-search-tree](https://github.com/sapta0069/SQL50-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ This repository contains the solutions for the SQL questions as organised in the
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/sapta0069/SQL50-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sapta0069/SQL50-Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
 |  |
@@ -82,4 +84,20 @@ This repository contains the solutions for the SQL questions as organised in the
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sapta0069/SQL50-Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/sapta0069/SQL50-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/sapta0069/SQL50-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/sapta0069/SQL50-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/sapta0069/SQL50-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
