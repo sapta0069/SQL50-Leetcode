@@ -33,6 +33,7 @@ This repository contains the solutions for the SQL questions as organised in the
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0041-first-missing-positive) |
 | [0238-product-of-array-except-self](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -40,6 +41,7 @@ This repository contains the solutions for the SQL questions as organised in the
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0041-first-missing-positive) |
 | [0870-magic-squares-in-grid](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/sapta0069/SQL50-Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Math
